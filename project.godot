@@ -67,7 +67,6 @@ game_jump={
 
 [physics]
 
-3d/default_gravity=9.8
 3d/default_gravity_vector=Vector3(0, -35, 0)
 common/enable_pause_aware_picking=true
 
